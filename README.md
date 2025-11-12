@@ -1,10 +1,10 @@
 <h1 align="center">🌸 Diabetes Prediction App</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://img.icons8.com/color/96/000000/diabetes.png" width="100"/>
 </p>
 
-<p align="center">
+<p align=left">
   A Streamlit-based web application that predicts the likelihood of diabetes using multiple machine learning models.  
   <br>
   It allows users to input health parameters and get instant predictions with a clean, interactive interface.
@@ -14,7 +14,7 @@
 
 ## 🧠 Tech Stack & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
 
   <img src="https://img.icons8.com/color/48/000000/numpy.png" title="NumPy"/>
