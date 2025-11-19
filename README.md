@@ -6,7 +6,7 @@
 
 
 <p align=left">
-  A Streamlit-based web application that predicts the likelihood of diabetes using multiple machine learning models.  
+  A Streamlit and flask-based web application that predicts the likelihood of diabetes using multiple machine learning models.  
   <br>
   It allows users to input health parameters and get instant predictions with a clean, interactive interface.
 </p>
@@ -35,7 +35,7 @@ The app integrates **seven machine learning models**, allowing users to select a
 
 ## ✨ Features
 
-✅ User-friendly interface built with **Streamlit**
+✅ User-friendly interface built with **Streamlit and flask**
 ✅ Multiple ML models available for prediction
 ✅ Real-time health parameter inputs via sliders and dropdowns
 ✅ Instant and accurate prediction of diabetes likelihood
