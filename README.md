@@ -35,12 +35,12 @@ The app integrates **seven machine learning models**, allowing users to select a
 
 ## ✨ Features
 
-✅ User-friendly interface built with **Streamlit and flask**
-✅ Multiple ML models available for prediction
-✅ Real-time health parameter inputs via sliders and dropdowns
-✅ Instant and accurate prediction of diabetes likelihood
-✅ Responsive design with clean layout
-✅ Author contact section with social links
+✅ User-friendly interface built with **Streamlit and flask**  
+✅ Multiple ML models available for prediction  
+✅ Real-time health parameter inputs via sliders and dropdowns   
+✅ Instant and accurate prediction of diabetes likelihood  
+✅ Responsive design with clean layout  
+✅ Author contact section with social links  
 
 ---
 
