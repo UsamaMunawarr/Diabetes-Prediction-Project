@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Result</title>
+    <style>
+        body { font-family: Arial; background: #eef2f3; text-align: center; padding: 40px; }
+        .card { background: white; padding: 20px; border-radius: 10px; display: inline-block; }
+        .healthy { color: green; font-size: 24px; }
+        .unhealthy { color: red; font-size: 24px; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h2>Prediction Result</h2>
+        <p>Model Used: <b>{{ model }}</b></p>
+        {% if result == 'Healthy' %}
+            <p class="healthy">🟢 You are Healthy!</p>
+        {% elif result == 'Unhealthy' %}
+            <p class="unhealthy">🔴 You may be at risk. Please consult a doctor.</p>
+        {% else %}
+            <p>{{ result }}</p>
+        {% endif %}
+        <a href="/">← Go Back</a>
+    </div>
+</body>
+</html>
