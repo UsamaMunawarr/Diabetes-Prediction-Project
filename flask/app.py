@@ -10,7 +10,7 @@ models = {
     'SVM': pickle.load(open('svc_model.pkl', 'rb')),
     'K-Nearest Neighbors': pickle.load(open('k_nearest_model.pkl', 'rb')),
     'Decision Tree': pickle.load(open('dt_model.pkl', 'rb')),
-    'Random Forest': pickle.load(open('rf_model.pkl', 'rb')),
+    #'Random Forest': pickle.load(open('rf_model.pkl', 'rb')),
     #'XGBoost': pickle.load(open('xgb_model.pkl', 'rb')),
     #'Stacking: pickle.load(open('clf_model.pkl', 'rb'))
 }
