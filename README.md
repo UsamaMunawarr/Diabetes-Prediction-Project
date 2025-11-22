@@ -113,6 +113,23 @@ Add your app demo image or GIF here
 
 ---
 
+## 🪪 License & Credits
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+**Diabetes Prediction App** — developed and maintained by **Usama Munawar (© 2025)**.  
+This project is licensed under the [MIT License](LICENSE).
+
+The app utilizes machine learning techniques to predict diabetes risk based on user input parameters.  
+All code, models, and designs presented in this repository are the original work of the author.
+
+If you use or reference this project, please provide **proper credit** by linking back to this repository.  
+Unauthorized copying, modification, or claiming this work as your own is strictly prohibited.
+
+> © 2025 Usama Munawar — All Rights Reserved.
+
+---
+
 ## 💚 Acknowledgements
 
 This project was built to demonstrate how machine learning models can assist in **early-stage diabetes detection** and promote **preventive healthcare awareness**.
